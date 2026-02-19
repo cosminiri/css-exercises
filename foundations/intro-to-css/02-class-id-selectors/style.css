@@ -3,3 +3,8 @@
     background-color: #f7cdcd;
     font-family: "Verdana", "DejaVu sans", sans-serif;
 }
+
+#second-element {
+    color: blue;
+    font-size: 30px;
+}
