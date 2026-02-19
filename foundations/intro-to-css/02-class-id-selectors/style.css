@@ -1,11 +1,11 @@
 /* Add CSS Styling */
 .odd-number {
-    background-color: #f7cdcd;
+    background-color: rgb(255, 167, 167);
     font-family: "Verdana", "DejaVu sans", sans-serif;
 }
 
 #second-element {
-    color: blue;
+    color: #0000ff;
     font-size: 30px;
 }
 
@@ -14,7 +14,7 @@
 }
 
 #fourth-element {
-    background-color: #c6eeab;
+    background-color: hsl(120, 100%, 75%);
     font-size: 24px;
     font-weight: bold;
 }
